@@ -1,0 +1,6 @@
+{
+  "name": "Intel 8086 Microprocessor & IC Lab Simulator",
+  "description": "An interactive 8086 microprocessor and peripheral IC training simulator for assembly programming, pinout visualization, BIU/EU queues, memory segmentation, and hardware interfacing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
